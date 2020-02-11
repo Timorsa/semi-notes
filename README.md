@@ -1,2 +1,2 @@
 # semi-notes
-little notpad project using react , firebase and material-ui
+little notpad project using React , Firebase and Material-UI
